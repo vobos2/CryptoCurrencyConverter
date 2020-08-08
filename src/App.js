@@ -58,11 +58,12 @@ function App() {
         data.forEach((sym) => {
           let symbol = sym.symbol;
           let price = sym.price;
-          if (symbol != "") {
-            base_assets.forEach((base) => {
-              if (symbol.substr(symbol.length - 4).includes(base)) {
-                //let removebase = symbol.split(base)[0];
-                let quote = symbol.split(base)[0];
+
+          base_assets.forEach((base) => {
+            if (symbol.substr(symbol.length - 4).includes(base)) {
+              //let removebase = symbol.split(base)[0];
+              let quote = symbol.split(base)[0];
+              if (quote != "") {
                 if (!banned_quote_assets.find((b) => quote.includes(b))) {
                   if (res[quote]) {
                     res[quote].push({ symbol: symbol, price: price });
@@ -71,8 +72,8 @@ function App() {
                   }
                 }
               }
-            });
-          }
+            }
+          });
         });
         setCurrencyDatabase(data);
         setCurrencyOptions([USDT, ...Object.keys(res)]); //, ...Object.keys(data.symbols)
