@@ -8,6 +8,7 @@ function CurrencyRow(props) {
     onChangeCurrency,
     amount,
     onChangeAmount,
+    dolVal
   } = props;
 
   return (
@@ -25,6 +26,7 @@ function CurrencyRow(props) {
           </option>
         ))}
       </select>
+      <small>{dolVal}</small>
     </div>
   );
 }

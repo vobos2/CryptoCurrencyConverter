@@ -1,8 +1,14 @@
-:root{
-    --text-color: rgb(0,132,255);
+:root {
+    --text-color: rgb(0, 132, 255);
 }
+
 body {
-    background-color: #ffbcd9;
+
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background-color:pink;
+    height: 100%;
     color: var(--text-color);
     margin: 0;
     display: flex;
@@ -10,6 +16,7 @@ body {
     align-items: center;
     min-height: 100vh;
     text-align: center;
+
 }
 
 h1 {
@@ -22,17 +29,19 @@ h1 {
     border-radius: .3em;
     padding: .25rem;
     width: 8em;
-    margin-right:.5rem;
+    margin-right: .5rem;
     text-align: center;
     color: var(--text-color);
 }
+
 select {
     color: var(--text-color);
-    width:4em;
+    width: 4em;
 }
+
 small {
-    font-size:.5rem;
-    padding-left:.5rem;
+    font-size: .5rem;
+    padding-left: .5rem;
 }
 
 .equals {
