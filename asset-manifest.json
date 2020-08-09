@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/CryptoCurrencyConverter/static/css/main.0a726ba0.chunk.css",
+    "main.js": "/CryptoCurrencyConverter/static/js/main.31f38586.chunk.js",
+    "main.js.map": "/CryptoCurrencyConverter/static/js/main.31f38586.chunk.js.map",
+    "runtime-main.js": "/CryptoCurrencyConverter/static/js/runtime-main.6b423a15.js",
+    "runtime-main.js.map": "/CryptoCurrencyConverter/static/js/runtime-main.6b423a15.js.map",
+    "static/js/2.c3587b33.chunk.js": "/CryptoCurrencyConverter/static/js/2.c3587b33.chunk.js",
+    "static/js/2.c3587b33.chunk.js.map": "/CryptoCurrencyConverter/static/js/2.c3587b33.chunk.js.map",
+    "index.html": "/CryptoCurrencyConverter/index.html",
+    "precache-manifest.c1dfecc44cfacf6b81111f5c25807daa.js": "/CryptoCurrencyConverter/precache-manifest.c1dfecc44cfacf6b81111f5c25807daa.js",
+    "service-worker.js": "/CryptoCurrencyConverter/service-worker.js",
+    "static/css/main.0a726ba0.chunk.css.map": "/CryptoCurrencyConverter/static/css/main.0a726ba0.chunk.css.map",
+    "static/js/2.c3587b33.chunk.js.LICENSE.txt": "/CryptoCurrencyConverter/static/js/2.c3587b33.chunk.js.LICENSE.txt",
+    "static/media/0.jpg": "/CryptoCurrencyConverter/static/media/0.9caf06ff.jpg",
+    "static/media/1.jpg": "/CryptoCurrencyConverter/static/media/1.d9251295.jpg",
+    "static/media/10.jpg": "/CryptoCurrencyConverter/static/media/10.e4d504f1.jpg",
+    "static/media/11.jpg": "/CryptoCurrencyConverter/static/media/11.07cb3dab.jpg",
+    "static/media/12.jpg": "/CryptoCurrencyConverter/static/media/12.9f476dc3.jpg",
+    "static/media/13.jpg": "/CryptoCurrencyConverter/static/media/13.b33ca6bc.jpg",
+    "static/media/14.jpg": "/CryptoCurrencyConverter/static/media/14.0a611787.jpg",
+    "static/media/15.jpg": "/CryptoCurrencyConverter/static/media/15.807e65fa.jpg",
+    "static/media/16.jpg": "/CryptoCurrencyConverter/static/media/16.1a5aab7c.jpg",
+    "static/media/17.jpg": "/CryptoCurrencyConverter/static/media/17.64c087a8.jpg",
+    "static/media/18.jpg": "/CryptoCurrencyConverter/static/media/18.d11da072.jpg",
+    "static/media/19.jpg": "/CryptoCurrencyConverter/static/media/19.946e8c1a.jpg",
+    "static/media/2.jpg": "/CryptoCurrencyConverter/static/media/2.02a91e25.jpg",
+    "static/media/3.jpg": "/CryptoCurrencyConverter/static/media/3.d8c00df7.jpg",
+    "static/media/4.jpg": "/CryptoCurrencyConverter/static/media/4.6bcb1e6c.jpg",
+    "static/media/5.jpg": "/CryptoCurrencyConverter/static/media/5.b2f07bad.jpg",
+    "static/media/6.jpg": "/CryptoCurrencyConverter/static/media/6.8427639b.jpg",
+    "static/media/7.jpg": "/CryptoCurrencyConverter/static/media/7.ecb1b27a.jpg",
+    "static/media/8.jpg": "/CryptoCurrencyConverter/static/media/8.6c58a740.jpg",
+    "static/media/9.jpg": "/CryptoCurrencyConverter/static/media/9.ddb7f3fc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b423a15.js",
+    "static/js/2.c3587b33.chunk.js",
+    "static/css/main.0a726ba0.chunk.css",
+    "static/js/main.31f38586.chunk.js"
+  ]
+}
