@@ -3,8 +3,8 @@ import "./App.css";
 import CurrencyRow from "./CurrencyRow";
 import Timer from "./Timer";
 
-const BASE_URL = "https://api.binance.com/api/v3/ticker/price";
-//const BASE_URL = "";
+//const BASE_URL = "https://api.binance.com/api/v3/ticker/price";
+const BASE_URL = "";
 const base_assets = ["BTC", "USDT", "ETH"];
 const BTC = "BTC";
 const USDT = "USDT";

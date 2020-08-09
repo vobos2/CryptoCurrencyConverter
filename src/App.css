@@ -37,6 +37,7 @@ h1 {
 select {
     color: var(--text-color);
     width: 4em;
+    border-radius:.5em;
 }
 
 small {
